@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ZinaSzt
-- 🌱 I’m currently learning php
+- 🌱 currently learning python
 
